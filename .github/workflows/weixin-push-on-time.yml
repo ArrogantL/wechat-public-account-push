@@ -4,8 +4,8 @@
 name: weixin-push-on-time
 
 on:
-  workflow_dispatch:
   push
+  
     
 jobs:
   build:
